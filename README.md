@@ -1,5 +1,5 @@
 # Gradient_Engine
-Introduction to Gradient Engine
+Introduction to Gradient Engine ( A small 7 part Github intro to Neural Networks inspired by Andrej Karpathy )
 # Gradient Engine
 
 ![1058467](https://github.com/PrateekJannu/Gradient_Engine/assets/71490386/6f14cb8e-5119-4a66-a31a-51a62d38ef28)
