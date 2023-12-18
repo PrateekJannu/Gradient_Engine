@@ -5,7 +5,7 @@ Introduction to Gradient Engine - One of my Github Repos for Neural Networks to 
 ![1058467](https://github.com/PrateekJannu/Gradient_Engine/assets/71490386/6f14cb8e-5119-4a66-a31a-51a62d38ef28)
 
 
-This is a compact Autograd engine (with a bit of a bite! :)). It implements backpropagation (reverse-mode autodiff) over a dynamically built Directed Acyclic Graph (DAG). Additionally, there's a small neural networks library on top of it with a PyTorch-like API. Both components are remarkably compact, with approximately 100 and 50 lines of code, respectively. The DAG specifically operates over scalar values, breaking down each neuron into individual tiny additions and multiplications. Surprisingly, this simplicity is sufficient to construct entire deep neural networks for binary classification. This project may prove useful for small to mid-size projects.
+This is a compact Gradient Descent engine (one of the most natural ones :). It implements backpropagation (reverse-mode autodiff) over a dynamically built Directed Acyclic Graph (DAG). Additionally, there's a small neural networks library on top of it with a PyTorch-like API. Both components are remarkably compact, with approximately 100 and 50 lines of code, respectively. The DAG specifically operates over scalar values, breaking down each neuron into individual tiny additions and multiplications. Surprisingly, this simplicity is sufficient to construct entire deep neural networks for binary classification. This project may prove useful for small to mid-size projects.
 
 
 
