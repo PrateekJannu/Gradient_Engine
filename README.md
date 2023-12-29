@@ -1,5 +1,5 @@
 # Gradient_Engine
-Introduction to Gradient Engine - One of my Github Repos for Neural Networks to Language Modelling  (*Inspired by Andrej Karpathy*)
+Introduction to Gradient Engine - One of my Github Repos for Neural Networks to Language Modelling 
 # Part 1 : Gradient Engine
 
 ![1058467](https://github.com/PrateekJannu/Gradient_Engine/assets/71490386/6f14cb8e-5119-4a66-a31a-51a62d38ef28)
